@@ -1,0 +1,19 @@
+.localTime{
+    background: rgba(103, 50, 50, 0.85);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border: 1px solid rgba(103, 50, 50, 0.47);
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    margin: 100px auto;
+}
+
+.clock{
+    border: 1px solid red;
+    width: 20%;
+    height: 10vh;
+    margin: 0 auto;
+}
